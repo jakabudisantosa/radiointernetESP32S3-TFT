@@ -1,3 +1,6 @@
+
+# radiointernetESP32S3-TFT
+
 System Overview
 
 This program is an ESP32-S3-based Internet Radio system designed to receive radio broadcasts via the internet and output audio through an I2S audio system. The system features an ST7735 TFT display as the user interface.
@@ -46,4 +49,3 @@ Users control the system via:
 
 In summary: the program creates a comprehensive, standalone Internet Radio system featuring audio streaming, multi-station management, WiFi configuration, web-based control, a TFT display, an NTP clock, a radio alarm, configuration storage, and automatic connection recovery.
 
-# radiointernetESP32S3-TFT
